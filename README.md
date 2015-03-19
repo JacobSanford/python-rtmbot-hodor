@@ -1,7 +1,7 @@
 # python-rtmbot-hodor
 ### Slack rtmbot plugin designed for hodoring.
 
-Listen for mentions of Hodor's name in channels and reply with a message.
+Plugin for [python-rtmbot](https://github.com/slackhq/python-rtmbot) : listen for mentions of Hodor's name in slack channels and reply with a message.
 
 Messages are pre-defined from a basic module import and classified by mood.
 
