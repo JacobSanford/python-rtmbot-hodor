@@ -21,7 +21,7 @@ def process_message(data):
             action_to_take = hodor.act()
             time.sleep(random.random() * 5)
             if action_to_take['type'] == 'action':
-                output_string = '/me ' + action_to_take['value']
+                output_string = '*' + action_to_take['value'] + '*'
             else:
                 output_string = action_to_take['value']
             outputs.append([data['channel'], output_string])
