@@ -33,7 +33,6 @@ class Hodor(object):
 
 
 class HodorAction(object):
-
     def __init__(self, mood):
         self.possibleactions = []
         self.mood = mood
