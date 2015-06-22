@@ -37,17 +37,17 @@ QuickStart
 
 Run As Daemon
 -----------
-If you plan on running Slack Hodor for long periods of time, you may consider using a process manager daemon such as
-[supervisor](http://supervisord.org/) to start and stop the rtmbot. A supervisor tutorial is available
-[here](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
+If you plan on running the Slack Hodor Integration for long periods of time, you may consider using a process manager
+daemon such as [supervisor](http://supervisord.org/) to start and stop the rtmbot. A supervisor tutorial is available
+[here](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps).
 
 
 License
 -----------
-- Slack Hodor is licensed under the MIT License:
+- Slack Hodor Integration is licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - `Slack Hodor by Jacob Sanford`
+  - `Slack Hodor Integration by Jacob Sanford`
 
 Sources
 -----------
