@@ -10,6 +10,9 @@ message against a library of words and human interpreted intent scoring. After
 mood assignment, a message is chosen based on a 'item drop' type selection process
 that allows for weighting of responses.
 
+## Docker
+A [docker image](https://registry.hub.docker.com/u/jacobsanford/slack-hodor/) has been created to deploy this service quickly.
+
 QuickStart
 -----------
 1. Download the python-rtmbot code
